@@ -1,7 +1,7 @@
 # Infographic
 
 
-Kho lưu trữ này chứa một infographic được tạo bởi **nguyenB2611268****.
+Kho lưu trữ này chứa một infographic được tạo bởi **nguyenB2611268**.
 
 ## Giấy phép
 
