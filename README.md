@@ -1,12 +1,9 @@
 # Infographic
 
-[svg](https://github.com/nguyen0916/Nhom7-TH1#infographic)
 
-Kho lưu trữ này chứa một infographic được tạo bởi **nguyen**.
+Kho lưu trữ này chứa một infographic được tạo bởi **nguyenB2611268****.
 
 ## Giấy phép
-
-[svg](https://github.com/nguyen0916/Nhom7-TH1#license)
 
 Hình ảnh PNG trong kho lưu trữ này được cấp phép theo:
 
@@ -23,7 +20,6 @@ Bạn được phép:
 
 ### Ghi công
 
-[svg](https://github.com/nguyen0916/Nhom7-TH1#attribution)
 
 Khi sử dụng hình ảnh này, vui lòng ghi công theo định dạng sau:
 
